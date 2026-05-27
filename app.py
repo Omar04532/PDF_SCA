@@ -123,7 +123,7 @@ with st.sidebar:
 # ───────────────────────────────────────────────
 # الهيدر الرئيسي
 # ───────────────────────────────────────────────
-st.markdown('<div class="main-header">📚 KDP Children's Books Research Suite Pro</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">📚 KDP Children\'s Books Research Suite Pro</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">نسخة محسّنة مع حماية ذكية من الحظر، ذاكرة مؤقتة، وبروكسيات دوارة</div>', unsafe_allow_html=True)
 
 # ───────────────────────────────────────────────
